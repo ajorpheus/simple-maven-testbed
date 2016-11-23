@@ -68,5 +68,3 @@ local.properties
 .idea/misc.xml
 .idea/modules.xml
 my-app.iml
-pom.xml
-src/
